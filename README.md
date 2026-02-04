@@ -1,6 +1,6 @@
 # Adventures of Mr. Skeleton
 
-![Unity Version](https://img.shields.io/badge/Unity-2021.3%2B-blue?logo=unity)
+![Unity Version](https://img.shields.io/badge/Unity-2022.3%2B-blue?logo=unity)
 ![Language](https://img.shields.io/badge/Language-C%23-blue)
 ![Platform](https://img.shields.io/badge/Platform-PC-lightgrey)
 
